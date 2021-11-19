@@ -1,4 +1,12 @@
-<h2>Hi, I am Shawn! 👋 </h2> 
+<h2>Hi, I am Shawn! 👋 </h2>
+
+<p> ...and I am on a mission to create beautiful, engaging websites.
+
+Introduced to programming when I was 16, I found my passion for front-end design during the days of Myspace. I spent countless hours as a bored teenager designing profile overlays using HTML / CSS, Adobe Dreamweaver, and Photoshop. In 2021 I decided to reignite this passion for logic and design by studying at Turing School of Software and Design.
+
+I am a front-end developer who specializes in Javascript and loves coding with React. I excel in client-centered, fast-paced environments. I am excited to utilize my past experience in management and real estate to bring results-driven leadership and client-focused interpersonal skills into a new career as a software developer.
+
+Let's build something beautiful together. </p> 
 
 <a href="https://www.shawnmcmahon.com">Portfolio</a> 
 <br/> 
