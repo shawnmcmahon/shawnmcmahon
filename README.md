@@ -10,6 +10,7 @@ Let's build something beautiful together. </p>
 
 <a href="https://www.shawnmcmahon.com">Portfolio</a> 
 <br/> 
+<br/>
 <a href="https://www.linkedin.com/in/shawnpmcmahon/">LinkedIn</a> 
 
 
