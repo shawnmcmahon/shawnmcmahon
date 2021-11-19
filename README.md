@@ -1,3 +1,11 @@
+<h2>Hi, I am Shawn! 👋 </h2> 
+
+<a href="https://www.shawnmcmahon.com">Portfolio</a> 
+<br/> 
+<a href="https://www.linkedin.com/in/shawnpmcmahon/">LinkedIn</a> 
+
+
+
 # Tech Stack
  <p align='center'>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
