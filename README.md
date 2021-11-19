@@ -8,6 +8,8 @@ I am a front-end developer who specializes in Javascript and loves coding with R
 
 Let's build something beautiful together. </p> 
 
+# Links
+
 <a href="https://www.shawnmcmahon.com">Portfolio</a> 
 <br/> 
 <br/>
