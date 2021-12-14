@@ -10,12 +10,12 @@ Let's build something beautiful together. </p>
 
 # Links
 
-<a href="https://www.shawnmcmahon.com">Portfolio</a> 
+👨‍💻 All of my projects are available on <a href="https://www.shawnmcmahon.com">my portfolio website.</a> 
 <br/> 
 <br/>
-<a href="https://www.linkedin.com/in/shawnpmcmahon/">LinkedIn</a> 
+📝 I occasionally write about my journey in tech while I live it on <a href="https://www.linkedin.com/in/shawnpmcmahon/">LinkedIn</a>, <a href="https://twitter.com/DOPE_A_MEAN">Twitter</a>, and <a href="https://medium.com/@shawnmcmahondev">Medium</a>. 
 
-
+I 
 
 # Tech Stack
  <p align='center'>
