@@ -14,6 +14,12 @@ Let's build something beautiful together. </p>
 <br/> 
 <br/>
 📝 I occasionally write about my journey in tech while I live it on <a href="https://www.linkedin.com/in/shawnpmcmahon/">LinkedIn</a>, <a href="https://twitter.com/DOPE_A_MEAN">Twitter</a>, and <a href="https://medium.com/@shawnmcmahondev">Medium</a>. 
+
+Download <a href="https://drive.google.com/file/d/1VfROQKUVu3f8b2sRP3eUIkWAxM9QQEMc/view">my Resume here.</a>
+
+💬 Ask me about Snowboarding, Concerts, Chess, and React.  
+
+
  
 
 # Tech Stack
