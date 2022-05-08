@@ -44,4 +44,3 @@ Let's build something beautiful together. </p>
 # Github Stats 
 [![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnmcmahon&theme=dracula)](https://github.com/shawnmcmahon/github-readme-stats)
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=shawnmcmahon.shawnmcmahon.visitor-badge) since Nov 2021
