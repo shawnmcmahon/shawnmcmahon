@@ -21,7 +21,6 @@ Let's build something beautiful together. </p>
 
 💬 Ask me about Snowboarding, Concerts, Chess, and React 
 
-📫 Reach me at shawnmcmahon17(at)gmail.com 
 
  
 
