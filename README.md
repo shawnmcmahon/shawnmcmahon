@@ -17,8 +17,6 @@ Let's build something beautiful together. </p>
 
 📄 Download <a href="https://drive.google.com/file/d/1VfROQKUVu3f8b2sRP3eUIkWAxM9QQEMc/view">my Resume here.</a>
 
-📚 I am currently learning NextJS13 and TailwindCSS 
-
 💬 Ask me about Snowboarding, Concerts, Chess, and React 
 
 
