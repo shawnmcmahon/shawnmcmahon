@@ -17,7 +17,7 @@ Let's build something beautiful together. </p>
 
 📄 Download <a href="https://drive.google.com/file/d/1VfROQKUVu3f8b2sRP3eUIkWAxM9QQEMc/view">my Resume here.</a>
 
-💬 Ask me about Snowboarding, Concerts, Chess, and React 
+💬 Ask me about Snowboarding, Chess, and React 
 
 
  
