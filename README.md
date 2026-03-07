@@ -11,7 +11,6 @@ Let's build something beautiful together. </p>
 👨‍💻 All of my projects are available on <a href="https://www.shawnmcmahon.com">my portfolio website</a> 
 <br/> 
 <br/>
-📝 I occasionally write about my journey in tech while I live it on <a href="https://www.linkedin.com/in/shawnpmcmahon/">LinkedIn</a> and <a href="https://medium.com/@shawnmcmahondev">Medium</a> 
 
 💬 Ask me about Snowboarding, Chess, and React 
 
