@@ -2,9 +2,7 @@
 
 <p> ...and I am on a mission to create beautiful, engaging websites.
 
-Currently serving as a Software Engineer II at Vertafore, I specialize in building robust, scalable applications using modern technologies including React, TypeScript, and .NET Framework. My expertise spans full-stack development, with particular strengths in front-end architecture, API design, and cloud-native solutions. I thrive in collaborative environments where I can leverage my technical skills alongside my background in management and real estate to deliver exceptional user experiences and drive business value.
-
-Throughout my career, I've demonstrated a unique ability to bridge technical complexity with user-centric design, ensuring that every solution not only meets functional requirements but also exceeds user expectations. My experience in client-facing roles has honed my ability to translate business needs into elegant technical solutions, while my leadership background enables me to mentor junior developers and contribute to team growth.
+Currently serving as a Software Engineer II at Vertafore, I specialize in building robust, scalable applications using modern technologies including React, TypeScript, and .NET Framework. My expertise spans full-stack development, with particular strengths in front-end architecture, API design, and cloud-native solutions. 
 
 Let's build something beautiful together. </p> 
 
