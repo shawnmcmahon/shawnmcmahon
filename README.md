@@ -6,13 +6,8 @@ Currently serving as a Software Engineer II at Vertafore, I specialize in buildi
 
 Let's build something beautiful together. </p> 
 
-# Links
-
 👨‍💻 All of my projects are available on <a href="https://www.shawnmcmahon.com">my portfolio website</a> 
 <br/> 
 <br/>
 
 💬 Ask me about Snowboarding, Chess, and React 
-
-
- 
